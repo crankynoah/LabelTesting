@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IronPdf" Version="2021.9.3737" />
+    <PackageReference Include="QRCoder" Version="1.4.1" />
+    <PackageReference Include="Select.HtmlToPdf.NetCore" Version="21.1.0" />
+    <PackageReference Include="Select.HtmlToPdf.NetCore.Blink" Version="21.1.0" />
+  </ItemGroup>
+
+</Project>
